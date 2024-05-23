@@ -1,5 +1,15 @@
 # GUIA-FINAL
 
+Sesión 1:
+
+Aplicaciones prácticas de los grafos:
+
+- Redes sociales: Representar amistades o conexiones entre personas.
+- Logística y transporte: Rutas de entrega, planificación de rutas.
+- Circuitos eléctricos: Conexiones entre componentes.
+- Mapas y navegación: Enrutamiento GPS.
+- Diseño de redes informáticas: Conexiones entre dispositivos.
+
 -------PRGUNTAS ORIENTADORAS
 1. ¿Cuales fueron los aprendizajes obtenidos al realizar esta guía?, liste como mínimo 3 aprendizajes y relaciónelos con su futuro que hacer profesional.
   SOLUCION
