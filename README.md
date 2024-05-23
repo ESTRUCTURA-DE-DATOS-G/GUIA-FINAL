@@ -2,13 +2,16 @@
 
 Sesión 1:
 
-Aplicaciones prácticas de los grafos:
+1. Aplicaciones prácticas de los grafos:
 
 - Redes sociales: Representar amistades o conexiones entre personas.
 - Logística y transporte: Rutas de entrega, planificación de rutas.
 - Circuitos eléctricos: Conexiones entre componentes.
 - Mapas y navegación: Enrutamiento GPS.
 - Diseño de redes informáticas: Conexiones entre dispositivos.
+  
+2.	Elabore una tabla sobre los algoritmos más importantes aplicables a un grafo. Especifique en qué consiste cada uno y muestre un ejemplo de aplicación.
+- https://docs.google.com/document/d/1bWziNKhmvYNqHwsgTeW7tBpz2wdDXZ-6KXQHKhrYFt4/edit
 
 -------PRGUNTAS ORIENTADORAS
 1. ¿Cuales fueron los aprendizajes obtenidos al realizar esta guía?, liste como mínimo 3 aprendizajes y relaciónelos con su futuro que hacer profesional.
